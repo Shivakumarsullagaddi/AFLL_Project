@@ -1,0 +1,7 @@
+import math;
+function add(a, b) {
+    return a + b;
+}
+var arr = [1, 2, 3, 4, 5];
+
+
